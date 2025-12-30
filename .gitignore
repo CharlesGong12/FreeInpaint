@@ -1,4 +1,5 @@
 outputs
+eval_brushnet_otherbench_optno_guidance_copy.py
 eval_sd3_otherbench_optno_guidance.py
 eval_sdi_otherbench_optno_guidance.py
 eval_sdixl_otherbench_optno_guidance.py
