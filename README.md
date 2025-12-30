@@ -16,6 +16,7 @@
 
 
 ## 👂 News
+* 🔥🔥 The full version including appendices released at [arXiv](https://arxiv.org/abs/2512.21104).
 * 🔥🔥 *FreeInpaint* has been accepted by AAAI 2026.
 
 ## 🛠️ Method Overview
@@ -24,7 +25,7 @@ FreeInpaint is a plug-and-play tuning-free approach for image inpainting that di
 
 ![](examples/freeinpaint/src/freeinpaint.jpg)
 
-## ✅TODO
+## ✅ TODO
 ### Code
 - [x] Evaluation and Pipeline of BrushNet
 - [x] Pipeline of Others (SDI, SDXLI, SD3I, PPT)
