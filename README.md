@@ -72,7 +72,7 @@ FreeInpaint is training-free; you need to download the model you want to apply, 
 
 ## 🏃🏼 Running Scripts
 
-We have now open-sourced the pipeline code for all base models integrated with FreeInpaint, as well as the evaluation code for BrushNet.
+Our code is in `examples/freeinpaint/`. We have now open-sourced the pipeline code for all base models integrated with FreeInpaint, as well as the evaluation code for BrushNet.
 
 You can evaluate BrushNet using the script:
 
