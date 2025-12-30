@@ -2,9 +2,13 @@
 <center>
 
 > Chao Gong<sup>1*</sup>, Dong Li<sup>2</sup>, Yingwei Pan<sup>2</sup>, Jingjing Chen<sup>1,3✉️</sup>, Ting Yao<sup>2</sup>, Tao Mei<sup>2</sup>
+
 > <sup>1</sup>College of Computer Science and Artificial Intelligence, Fudan University
+
 <sup>2</sup>HiDream.ai Inc. <sup>3</sup>Institute of Trustworthy Embodied AI, Fudan University
+
 <sup>*</sup>This work was performed at HiDream.ai. <sup>✉️</sup>Corresponding author.
+
 Contact us via cgong24@m.fudan.edu.cn.
 </center>
 
