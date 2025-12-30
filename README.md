@@ -111,9 +111,11 @@ You need to use your own paths. The `--use_prompt_mask` indicates using prompts 
 
 1. We find different machine may generate different images, thus providing the results on our machine [here](https://drive.google.com/drive/folders/1c6LAjSduCkiMX6LpAymIGEEwHdhq8Q-m?usp=sharing).
 
-2. Additionally, this repository is based on BrushNet, so stable-diffusion-inpainting, stable-diffusion-xl-inpainting, and BrushNet can be run directly. Other pipeline code that cannot be run directly is also provided: if you want to run PowerPaint, since the code repositories are different, you can move `examples/freeinpaint/pipe/pipeline_PowerPaint_optno_guidance.py` to your PowerPaint code path; if you want to run SD3-Controlnet-Inpainting, due to significant differences in environment configurations, you need to update the `diffusers` library.
+2. Currently, we have provided the evaluation code for BrushNet. You can refer to and modify the code for other models yourself. We will provide the evaluation code for other models soon.
 
-3. Following [selfcross-guidance](https://github.com/mengtang-lab/selfcross-guidance), the features of the intermediate layers of SD3, layers 7-17, are used during evaluation.
+3. This repository is based on BrushNet, so stable-diffusion-inpainting, stable-diffusion-xl-inpainting, and BrushNet can be run directly. Other pipeline code that cannot be run directly is also provided: if you want to run PowerPaint, since the code repositories are different, you can move `examples/freeinpaint/pipe/pipeline_PowerPaint_optno_guidance.py` to your PowerPaint code path; if you want to run SD3-Controlnet-Inpainting, due to significant differences in environment configurations, you need to update the `diffusers` library.
+
+4. Following [selfcross-guidance](https://github.com/mengtang-lab/selfcross-guidance), the features of the intermediate layers of SD3, layers 7-17, are used during evaluation.
 
 ## 🤝🏼 Cite Us
 
