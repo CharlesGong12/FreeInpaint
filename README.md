@@ -1,12 +1,18 @@
-## *FreeInpaint*: Tuning-free Prompt Alignment and Visual Rationality Enhancement in Image Inpainting
-<center>
+<div align="center">
 
-> Chao Gong<sup>1*</sup>, Dong Li<sup>2</sup>, Yingwei Pan<sup>2</sup>, Jingjing Chen<sup>1,3✉️</sup>, Ting Yao<sup>2</sup>, Tao Mei<sup>2</sup><br>
-> <sup>1</sup>College of Computer Science and Artificial Intelligence, Fudan University<br>
-><sup>2</sup>HiDream.ai Inc. <sup>3</sup>Institute of Trustworthy Embodied AI, Fudan University<br>
-><sup>*</sup>This work was performed at HiDream.ai. <sup>✉️</sup>Corresponding author.<br>
-Contact us via cgong24@m.fudan.edu.cn.
-</center>
+# FreeInpaint: Tuning-free Prompt Alignment and Visual Rationality Enhancement in Image Inpainting
+
+**Chao Gong**<sup>1*</sup> · **Dong Li**<sup>2</sup> · **Yingwei Pan**<sup>2</sup> · **Jingjing Chen**<sup>1,3✉️</sup> · **Ting Yao**<sup>2</sup> · **Tao Mei**<sup>2</sup>
+
+<sup>1</sup>College of Computer Science and Artificial Intelligence, Fudan University<br>
+<sup>2</sup>HiDream.ai Inc. &emsp; <sup>3</sup>Institute of Trustworthy Embodied AI, Fudan University
+
+<br>
+
+<small>*This work was performed at HiDream.ai. ✉️Corresponding author.</small><br>
+<small>Contact: cgong24@m.fudan.edu.cn</small>
+
+</div>
 
 
 ## 👂 News
@@ -18,7 +24,7 @@ FreeInpaint is a plug-and-play tuning-free approach for image inpainting that di
 
 ![](examples/freeinpaint/src/freeinpaint.jpg)
 
-## TODO
+## ✅TODO
 ### Code
 - [x] Evaluation and Pipeline of BrushNet
 - [x] Pipeline of Others (SDI, SDXLI, SD3I, PPT)
